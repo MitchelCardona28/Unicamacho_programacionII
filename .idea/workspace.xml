@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f57190de-6949-4068-a02c-6e4f7e7b9254" name="Changes" comment="&quot;add(Ejercicio): add Main file with the solved exercise and others XML files&quot;">
+      <change beforePath="$PROJECT_DIR$/Ejercicios_28_Sept_2026" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2746522460952079" />
+      <entry key="MS500" value="3.0953465209048394" />
+      <entry key="S2" value="4.444544036067653" />
+      <entry key="S5" value="6.377245192195536" />
+      <entry key="S10" value="10.068396148417937" />
+      <entry key="S30" value="16.422531704428074" />
+      <entry key="S60" value="20.176889774133944" />
+      <entry key="M2" value="28.50780275023969" />
+      <entry key="M5" value="64.14145799154042" />
+      <entry key="M10" value="133.07341131816008" />
+      <entry key="M15" value="187.32269377583515" />
+      <entry key="M30" value="277.7089939922854" />
+      <entry key="H1" value="344.4090081280093" />
+      <entry key="H2" value="385.19920210521764" />
+      <entry key="H4" value="407.7922794487407" />
+      <entry key="D1" value="427.8481457726052" />
+      <entry key="W1" value="431.40393781885416" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="7.1953777196050434E-152" />
+      <entry key="S5" value="3.489967951387028E-61" />
+      <entry key="S10" value="5.907595071246679E-31" />
+      <entry key="S30" value="8.398590606205402E-11" />
+      <entry key="S60" value="9.609092899959248E-6" />
+      <entry key="M2" value="0.004170912387918985" />
+      <entry key="M5" value="0.2366518205704758" />
+      <entry key="M10" value="1.0361180980074736" />
+      <entry key="M15" value="1.7298973172995589" />
+      <entry key="M30" value="2.9223289174843763" />
+      <entry key="H1" value="3.8161978373894128" />
+      <entry key="H2" value="4.366338782783515" />
+      <entry key="H4" value="4.67194316263402" />
+      <entry key="D1" value="4.943692868875062" />
+      <entry key="W1" value="4.9919152090324515" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0851016293213875" />
+      <entry key="MS500" value="3.000183702707085" />
+      <entry key="S2" value="4.411554748551552" />
+      <entry key="S5" value="6.359307835465877" />
+      <entry key="S10" value="10.054907025170529" />
+      <entry key="S30" value="16.415429912326733" />
+      <entry key="S60" value="20.172700829461853" />
+      <entry key="M2" value="28.509099044119676" />
+      <entry key="M5" value="64.37427565317441" />
+      <entry key="M10" value="134.10420758062432" />
+      <entry key="M15" value="189.0471477055511" />
+      <entry key="M30" value="280.6269817817999" />
+      <entry key="H1" value="348.2224282659648" />
+      <entry key="H2" value="389.56396495696964" />
+      <entry key="H4" value="412.4633826363663" />
+      <entry key="D1" value="432.79169093275675" />
+      <entry key="W1" value="436.395831731048" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JWbxMBjyEj0oKGaqEWVNKPnhzO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mitchel-cardona/IdeaProjects/Unicamacho-programacionII&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/mitchel-cardona/IdeaProjects/Unicamacho-programacionII/untitled/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Ejercicios_18Sept_2026" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f57190de-6949-4068-a02c-6e4f7e7b9254" name="Changes" comment="" />
+      <created>1789780024825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789780024825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;add(Ejercicio): add Main file with the solved exercise and others XML files&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;add(Ejercicio): add Main file with the solved exercise and others XML files&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Ejercicios_18Sept_2026/Unicamacho-programacionII/untitled/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
